@@ -1,0 +1,11 @@
+invoice_id,customer,invoice_date,due_date,department,description,amount_cents,open_cents
+AR-2401,Redcedar Assembly,2026-06-15,2026-07-15,SALES,"June product invoice, past due",4820000,4820000
+AR-2402,Saltmarsh Robotics,2026-07-20,2026-08-19,SALES,July parts invoice,3675000,3675000
+AR-2403,Field & Birch Manufacturing,2026-08-05,2026-09-04,SALES,August shipment,6140000,6140000
+AR-2404,Quarry Line Products,2026-08-28,2026-09-27,SALES,"August shipment, just past due",2215000,2215000
+AR-2405,Hearthstone Automation,2026-09-01,2026-10-01,SALES,September shipment,8800000,8800000
+AR-2406,Littleford Mills,2026-09-12,2026-10-12,SALES,September parts order,5460000,5460000
+AR-2407,Redcedar Assembly,2026-09-18,2026-10-18,SALES,September replenishment,4190000,4190000
+AR-2408,Saltmarsh Robotics,2026-05-02,2026-06-01,SALES,May invoice still open,1984000,1984000
+AR-2409,Quarry Line Products,2026-09-25,2026-10-25,SALES,Late September shipment,2730000,2730000
+AR-2410,Field & Birch Manufacturing,2026-04-10,2026-05-10,SALES,April invoice still open,1550000,1550000

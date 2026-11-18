@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "finance-tools": {
+      "command": "uv",
+      "args": ["run", "--directory", "/absolute/path/to/poc.mcp-finance-tools", "mcp-finance-tools"]
+    }
+  }
+}
