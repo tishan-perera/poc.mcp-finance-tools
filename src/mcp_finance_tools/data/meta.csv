@@ -1,0 +1,15 @@
+key,value
+company_name,"Halden & Quay Supply, Inc."
+entity_id,SYNTHETIC-HALDEN-QUAY-001
+currency,USD
+country,United States
+fiscal_year_start,January
+as_of_date,2026-09-30
+as_of_period,2026-09
+books_basis,Pre-close. Income-statement accounts are not closed to retained earnings.
+synthetic_notice,"All figures are invented. Halden & Quay Supply, Inc. is a fictional company. This is not a real ledger and not financial advice."
+bank_statement_cents,156448500
+ytd_net_income_cents,27050000
+ending_cash_cents,158872000
+ending_ar_cents,41564000
+ending_ap_cents,16386000

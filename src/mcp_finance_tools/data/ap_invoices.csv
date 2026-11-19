@@ -1,0 +1,8 @@
+invoice_id,vendor,invoice_date,due_date,department,description,amount_cents,open_cents
+AP-3301,Brightbox Packaging,2026-08-20,2026-09-19,OPS,Packaging materials,2840000,2840000
+AP-3302,Kelso Metals Supply,2026-09-08,2026-10-08,OPS,September metal stock,5385000,5385000
+AP-3303,Pine Street Logistics,2026-09-15,2026-10-15,OPS,September inbound freight,1786000,1786000
+AP-3304,Cobalt & Clay Industrial,2026-07-01,2026-07-31,OPS,July component purchase,2460000,2460000
+AP-3305,Paper & Pixel Software,2026-08-01,2026-08-31,ENG,August implementation help,800000,800000
+AP-3306,Kelso Metals Supply,2026-05-15,2026-06-14,OPS,May metal stock still open,2175000,2175000
+AP-3307,Pine Street Logistics,2026-08-01,2026-08-15,OPS,August freight invoice,940000,940000

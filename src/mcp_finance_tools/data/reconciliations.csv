@@ -1,0 +1,11 @@
+recon_id,account_code,period,item_type,description,amount_cents,status,owner_role
+REC-CASH-01,1000,2026-09,deposit_in_transit,"Customer deposit recorded on 2026-09-29, not on the bank statement yet.",4260000,open,Cash accountant
+REC-CASH-02,1000,2026-09,outstanding_check,"Check 1042 to Brightbox Packaging, mailed 2026-09-18, still outstanding.",1845000,open,Cash accountant
+REC-CASH-03,1000,2026-09,unrecorded_bank_fee,"September bank service charge on the statement, not yet on the books.",8500,open,Cash accountant
+REC-CASH-04,1000,2026-08,outstanding_check,Check 1031 cleared in September.,2200000,cleared,Cash accountant
+REC-AP-01,2100,2026-09,unrecorded_invoice,"Paper & Pixel Software invoice PPS-7781 dated 2026-09-28 for September support, in hand but not recorded.",780000,open,AP reviewer
+REC-AP-02,2000,2026-09,unapplied_debit,"Debit memo from Kelso Metals Supply, not yet matched to a bill. The AP control account still ties.",124000,open,AP reviewer
+REC-AR-01,1100,2026-09,unapplied_receipt,Redcedar receipt of 9600 on 2026-09-22 was applied to the wrong invoice. The AR control still ties.,960000,open,AR reviewer
+REC-AR-02,1100,2026-07,unapplied_receipt,Short-payment note resolved in August.,50000,cleared,AR reviewer
+REC-INV-01,1200,2026-09,count_shortage,September cycle count is 6150 below the books. Not posted.,615000,open,Inventory control
+REC-PRE-01,1300,2026-09,schedule_difference,Prepaid insurance support is 1200 below the book balance. Review the amortization schedule.,120000,open,GL accountant
